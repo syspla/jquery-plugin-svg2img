@@ -1,5 +1,9 @@
 # jQuery Plugin svg2img
 
+Load from cdn
+
+https://cdn.jsdelivr.net/gh/syspla/jquery-plugin-svg2img@1.0/svg2img.js
+
 The aim of this small jQuery plugin is to easy convert inline SVGs to standalone SVG image files without loosing styles:
 
 ```js
